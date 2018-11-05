@@ -7,3 +7,5 @@
 - [ruby 编码规范](https://ruby-china.org/wiki/coding-style)
 
 - [ruby 教程](https://www.ruby-lang.org/zh_cn/documentation/)
+
+- [ruby programming](http://ruby-doc.com/docs/ProgrammingRuby/html/builtins.html)
