@@ -20,3 +20,5 @@ file_2 = File.open('test_file.text', 'r')
 words = file_2.sysread(5)
 puts words
 file_2.close
+
+puts __FILE__
